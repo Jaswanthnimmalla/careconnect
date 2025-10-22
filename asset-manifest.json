@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/careconnect/static/css/main.aebe5d60.css",
-    "main.js": "/careconnect/static/js/main.b6044784.js",
+    "main.css": "/careconnect/static/css/main.1e3ef844.css",
+    "main.js": "/careconnect/static/js/main.e087e4ce.js",
     "index.html": "/careconnect/index.html",
-    "main.aebe5d60.css.map": "/careconnect/static/css/main.aebe5d60.css.map",
-    "main.b6044784.js.map": "/careconnect/static/js/main.b6044784.js.map"
+    "main.1e3ef844.css.map": "/careconnect/static/css/main.1e3ef844.css.map",
+    "main.e087e4ce.js.map": "/careconnect/static/js/main.e087e4ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.aebe5d60.css",
-    "static/js/main.b6044784.js"
+    "static/css/main.1e3ef844.css",
+    "static/js/main.e087e4ce.js"
   ]
 }
